@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## 채완이의 어드민 점프맵에 오신것을 환영합니다.
 
-You can use the [editor on GitHub](https://github.com/boyangsic/admin-jumpmap/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+당신은 [이곳](https://www.roblox.com/games/7747366391/unnamed?gameSetTypeId=100000003&homePageSessionInfo=ed545bf0-4c27-4520-af2d-6c19fda5c2a1&isAd=false&numberOfLoadedTiles=6&page=homePage&placeId=7747366391&position=2&sortPos=0&universeId=3004632193)에서 점프맵을 플레이 할수 있습니다.(로블록스 계정 필요.)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+이곳에서 게임을 플레이하고, 어드민을 얻고, 트로피를 얻어보세요.
 
-### Markdown
+### 색다른 트로피 시스템
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+맨날 똑같은 사진찍어 올리는 인증방식이 지겹고,귀찮다고요?
+그럼 이 시스템을 사용해봐요! 트로피 시스템!
+당신은 점프맵을 깨면, 자동으로 트로피를 받고, 그 트로피로 인증이 가능하죠!
 
-```markdown
-Syntax highlighted code block
+### 프리모델을 줄이자!
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/boyangsic/admin-jumpmap/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+저희 게임은, 현재 프리모델(프모)를 줄여나가고 있습니다!
